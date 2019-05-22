@@ -1,0 +1,98 @@
+html, body {
+  height: 100%;
+}
+/*垂直小圖*/
+.circular-portrait-small{
+    position:relative;
+    width:30px;
+    height:30px;
+    overflow:hidden;
+    border-radius:50%;
+}
+
+.circular-portrait-small img{
+    width:100%;
+    height:auto;
+}
+/*垂直大圖*/
+.circular-portrait{
+    position:relative;
+    width:150px;
+    height:150px;
+    overflow:hidden;
+    border-radius:50%;
+}
+
+.circular-portrait img{
+    width:100%;
+    height:auto;
+}
+
+
+/*水平小圖*/
+
+.circular-landscape-small{
+    display:inline-block;
+    position:relative;
+    width:30px;
+    height:30px;
+    overflow:hidden;
+    border-radius:50%;
+}
+
+.circular-landscape-small img{
+    width:auto;
+    height:100%;
+    margin-left:-50%;
+}
+/*水平大圖*/
+.circular-landscape{
+        display:inline-block;
+        position:relative;
+        width:200px;
+        height:200px;
+        overflow:hidden;
+        border-radius:50%;
+    }
+
+    .circular-landscape img{
+        width:auto;
+        height:100%;
+        margin-left:-50%;
+        top: 100%;
+}
+
+
+
+
+/*正方小圖*/
+.circle-small{
+    position:relative;
+    width:30px;
+    height:30px;
+    overflow:hidden;
+    border-radius:50%;
+}
+
+.circle-small img{
+    width:100%;
+    height:auto;
+}
+/*正方大圖*/
+.circle{
+    position:relative;
+    width:150px;
+    height:150px;
+    overflow:hidden;
+    border-radius:50%;
+}
+
+.circle img{
+    width:100%;
+    height:auto;
+}
+.page-footer {
+    padding-top: 20px;
+    color: #fff;
+    background-color: #26a69ab8;
+}
