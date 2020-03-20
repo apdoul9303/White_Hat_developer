@@ -6,8 +6,8 @@ session_start();
 $host = 'localhost';
 //'root' is the username
 $dbuser = 'root';
-//'tyl2y17' is the password
-$dbpw = 'tyl2y17';
+//'MYPASSWORD' is the password
+$dbpw = 'MYPASSWORD';
 //select the datacase for this web application
 $dbname = 'my_db';
 
@@ -17,8 +17,8 @@ $dbname = 'my_db';
 //$host = 'localhost';
 //'root' is the username
 //$dbuser = 'id6766063_tyl2y17';
-//'tyl2y17' is the password
-//$dbpw = '19931016';
+//'MYPASSWORD2BTD' is the password
+//$dbpw = 'MYPASSWORD2BTD';
 //select the datacase for this web application
 //$dbname = 'id6766063_tyldb';
 
