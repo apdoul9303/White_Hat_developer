@@ -1,2 +1,2 @@
 # White-Hat-developer
-Dissertation project. A PHP based educational website.
+PHP based educational website.
